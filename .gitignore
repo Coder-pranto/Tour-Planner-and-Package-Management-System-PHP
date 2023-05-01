@@ -1,3 +1,14 @@
+
+
+
+
+#folder
+/images
+/Admin/adminpics
+/Admin/packimages
+/Admin/subcatimages
+
+
 # Logs
 logs
 *.log
