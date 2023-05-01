@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,400&display=swap');
+
+
+:root {
+    --orange: #ffa500;
+  }
+  
+  * {
+    font-family: 'Nunito', sans-serif;
+
+  }
+  
+  *::selection {
+    background: var(--orange);
+    color: #fff;
+  }
+
+
+   /* Navbar css */
+  ul.navbar-nav a:hover { color: var(--orange) !important; }
+
+ /* sidebar css */
+  ul.box a:hover { 
+    color: orange !important;
+    background-color: white !important;
+    display: block !important;
+    text-decoration: none;
+   
+ }
+
